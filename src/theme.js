@@ -1,5 +1,5 @@
 export const alpha = '#FFF';
-export const beta = '#1F2022';
+export const beta = '#1e1e1e';
 export const gamma = '#03A9FC';
 export const delta = '#CECECE';
 export const epsilon = 'hotpink';
