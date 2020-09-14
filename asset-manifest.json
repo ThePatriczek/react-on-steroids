@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-on-steroids/static/js/main.c62d30fb.chunk.js",
+    "main.js.map": "/react-on-steroids/static/js/main.c62d30fb.chunk.js.map",
+    "runtime-main.js": "/react-on-steroids/static/js/runtime-main.1baef0a3.js",
+    "runtime-main.js.map": "/react-on-steroids/static/js/runtime-main.1baef0a3.js.map",
+    "static/js/2.27defac3.chunk.js": "/react-on-steroids/static/js/2.27defac3.chunk.js",
+    "static/js/2.27defac3.chunk.js.map": "/react-on-steroids/static/js/2.27defac3.chunk.js.map",
+    "index.html": "/react-on-steroids/index.html",
+    "precache-manifest.23f9e7b54062fc6239d6ad468fef8768.js": "/react-on-steroids/precache-manifest.23f9e7b54062fc6239d6ad468fef8768.js",
+    "service-worker.js": "/react-on-steroids/service-worker.js",
+    "static/js/2.27defac3.chunk.js.LICENSE.txt": "/react-on-steroids/static/js/2.27defac3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1baef0a3.js",
+    "static/js/2.27defac3.chunk.js",
+    "static/js/main.c62d30fb.chunk.js"
+  ]
+}
