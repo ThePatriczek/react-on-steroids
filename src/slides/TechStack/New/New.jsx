@@ -37,7 +37,7 @@ export const New =
 
             <ListItem>
                 <FlexBox justifyContent={`space-between`}>
-                    <Box>{`Redux`}</Box>
+                    <Box>{`Redux (Saga)`}</Box>
                     <Box>{`➡`}️</Box>
                     <Box>{`Apollo Cache`}</Box>
                 </FlexBox>

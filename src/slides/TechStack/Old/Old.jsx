@@ -11,7 +11,7 @@ export const Old =
             <ListItem>{`Class Components`}</ListItem>
             <ListItem>{`GraphQL`}</ListItem>
             <ListItem>{`Axios`}</ListItem>
-            <ListItem>{`Redux`}</ListItem>
+            <ListItem>{`Redux (Saga)`}</ListItem>
             <ListItem>{`Less`}</ListItem>
         </UnorderedList>
     </Slide>
