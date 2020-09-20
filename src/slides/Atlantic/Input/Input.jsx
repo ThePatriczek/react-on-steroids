@@ -3,7 +3,7 @@ import React from "react";
 
 export const Input =
     <Slide backgroundColor={`beta`}>
-        <Heading color={`epsilon`}>
+        <Heading color={`gamma`}>
             {`Input`}
         </Heading>
         <CodePane autoFillHeight language={`jsx`}>

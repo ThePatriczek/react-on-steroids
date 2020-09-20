@@ -1,11 +1,17 @@
 import React from 'react';
-import {Heading, ListItem, Slide, UnorderedList} from 'spectacle';
+import {FlexBox, Heading, ListItem, Slide, UnorderedList} from 'spectacle';
 
 export const Old =
     <Slide backgroundColor={`beta`}>
-        <Heading color={`epsilon`}>
-            {`Tech Stack - Old`}
-        </Heading>
+        <FlexBox>
+            <Heading color={`gamma`}>
+                {`Tech Stack`}
+            </Heading>
+            <Heading color={`alpha`}>{`-`}</Heading>
+            <Heading color={`epsilon`}>
+                {`Old`}
+            </Heading>
+        </FlexBox>
         <UnorderedList style={{listStyleType: `none`}}>
             <ListItem>{`Javascript`}</ListItem>
             <ListItem>{`Class Components`}</ListItem>

@@ -31,7 +31,7 @@ export const Widget =
     </Slide>
 
 export const WidgetExample = <Slide backgroundColor={`beta`}>
-    <Heading color={`epsilon`}>
+    <Heading color={`gamma`}>
         {`Input Usage Example`}
     </Heading>
     <CodePane autoFillHeight language={`jsx`}>
@@ -47,26 +47,18 @@ export const WidgetExample = <Slide backgroundColor={`beta`}>
 
 export const ProsCons =
     <Slide backgroundColor={`beta`}>
-        <Heading color={`epsilon`}>
-            {`View, Controller - Pros & Cons`}
-        </Heading>
-        <FlexBox justifyContent={`space-between`}>
-            <Box>
-                <Heading color={`gamma`}>
-                    {`Pros`}
-                </Heading>
-                <UnorderedList>
-                    <ListItem>{`Reusable Views for the Controller`}</ListItem>
-                    <ListItem>{`Reusable Controllers for the View`}</ListItem>
-                </UnorderedList>
-            </Box>
-            <Box>
-                <Heading color={`gamma`}>
-                    {`Cons`}
-                </Heading>
-                <UnorderedList>
-                    <ListItem>{`???`}</ListItem>
-                </UnorderedList>
-            </Box>
+        <FlexBox>
+            <Heading color={`gamma`}>
+                {`View & Controller`}
+            </Heading>
+            <Heading color={`alpha`}>{`-`}</Heading>
+            <Heading color={`epsilon`}>
+                {`Pros`}
+            </Heading>
         </FlexBox>
+
+        <UnorderedList>
+            <ListItem>{`Reusable Views for the Controller`}</ListItem>
+            <ListItem>{`Reusable Controllers for the View`}</ListItem>
+        </UnorderedList>
     </Slide>

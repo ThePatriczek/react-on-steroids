@@ -7,7 +7,7 @@ export const TableOfContent =
             {`Topics`}
         </Heading>
 
-        <UnorderedList>
+        <UnorderedList style={{listStyleType: `none`}}>
             <ListItem>{`Our TechStack`}</ListItem>
             <ListItem>{`How to reuse components effectively?`}</ListItem>
             <ListItem>{`Optimization`}</ListItem>
