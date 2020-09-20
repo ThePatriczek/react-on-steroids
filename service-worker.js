@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-on-steroids/precache-manifest.f1d6b08728d7b965ed1ea1fbc6fabf10.js"
+  "/react-on-steroids/precache-manifest.c67e5c03c79afd27d0e50ee6af99bc17.js"
 );
 
 self.addEventListener('message', (event) => {

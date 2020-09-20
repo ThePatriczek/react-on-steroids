@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9edf91567972eec94f3ea1761ae3be4f",
+    "revision": "1b2336675686f916c5144a3c64f69d09",
     "url": "/react-on-steroids/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-on-steroids/static/js/2.b2206914.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a4f21b1700d4d2019891",
-    "url": "/react-on-steroids/static/js/main.9ea0a700.chunk.js"
+    "revision": "7da0797454142ecbcf56",
+    "url": "/react-on-steroids/static/js/main.f6495be5.chunk.js"
   },
   {
     "revision": "ae126ba38fa53b119e24",
